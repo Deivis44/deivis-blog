@@ -1,6 +1,6 @@
 ---
-title: Welcome to Quartz
+title: Bienvenido a mi Blog personal
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+# Introducción
+Este es un blog personal que procurare priorizar para el aspecto de proyectos si no de manera independiente, como blog donde almacene algunas notas e informacion sobre tecnologia, ciencia y otros temas de interes.
