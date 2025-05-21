@@ -13,3 +13,4 @@ aliases: [tareas]
 ## Dotfiles
 - [ ] Agregar a los dotfiles (crear enlaces con stow) la configuracion hecha con superfile
 - [ ] Empezar de manera correcta con la creacion de la wiki/documentacion de mis dotfiles
+- [ ] Actualizar correctamente el README de tmux, lo de guardar la configuracion del plugin resurrect esta mal por un typo, y hay un comando que no hace nada y esta especificado en la tabla
